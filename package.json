@@ -1,7 +1,7 @@
 {
-  "name": "react-starter-boilerplate",
+  "name": "webpack-react-remplate",
   "version": "1.0.0",
-  "description": "React Starter Boilerplate",
+  "description": "webpack-react-remplate",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --progress --inline --hot",
@@ -11,8 +11,7 @@
     "prod": "cross-env NODE_ENV=production webpack"
   },
   "keywords": [],
-  "author": "Honore Hounwanou",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "autoprefixer": "^7.1.1",
     "cross-env": "^5.0.1",
