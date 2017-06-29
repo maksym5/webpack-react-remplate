@@ -1,7 +1,7 @@
 {
-  "name": "webpack-react-remplate",
+  "name": "webpack-react-template",
   "version": "1.0.0",
-  "description": "webpack-react-remplate",
+  "description": "webpack-react-template",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --progress --inline --hot",
